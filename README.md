@@ -12,9 +12,9 @@ I'm interested in:
 
 ## Featured Projects
 
-📱 Android Prayer Application
+- Android Prayer Application
 
-🤖 SwiftBot Navigation System
+- SwiftBot Navigation System
 
 ## Languages
 
